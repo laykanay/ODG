@@ -1,7 +1,8 @@
 #this script starts with:
 #bg studio
 #ood emb at center
-# this is a test for git shit
+#hootenany
+
 label ooddate:
     show ood happy at bounce, center
     o "Great!"
