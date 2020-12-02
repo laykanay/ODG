@@ -247,5 +247,20 @@ label ooddate:
     o "What were you thinking of getting?"
     label oodfoodchoice
     menu:
-        "Lobster tails with veggies":
-            jump ood
+        "Spaghetti à l'ail":
+            jump oodfoodneut
+        "Lobster tails avec des légumes":
+            jump oodfoodfave
+        "Lasagna quatre fromages":
+            jump oodfoodhate
+
+    label oodfoodfave:
+    $ ood_points = ood_points + 1
+
+
+    label oodfoodneut:
+
+
+
+    label oodfoodhate:
+    $ ood_points = ood_points - 1
