@@ -1,7 +1,6 @@
 #this script starts with:
 #bg studio
 #ood emb at center
-#shitnicker
 
 label ooddate:
     show ood happy at bounce, center
