@@ -1,6 +1,7 @@
 #this script starts with:
 #bg studio
 #ood emb at center
+#hootenany
 
 label ooddate:
     show ood happy at bounce, center
